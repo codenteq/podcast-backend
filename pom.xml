@@ -8,10 +8,10 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.podcast</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.codenteq</groupId>
+	<artifactId>podcast</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>podcast</name>
 	<description>Podcast App</description>
 	<properties>
 		<java.version>21</java.version>
