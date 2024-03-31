@@ -39,4 +39,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Useful Links
 
-- [YouTube]([youtube.com/zero-to-app-development](https://www.youtube.com/watch?v=DZ7namv9j1Q&list=PLHYivO_x2UU30orvWYjPK4HdTfei1jkr4))
+- [YouTube](https://www.youtube.com/watch?v=DZ7namv9j1Q&list=PLHYivO_x2UU30orvWYjPK4HdTfei1jkr4)
