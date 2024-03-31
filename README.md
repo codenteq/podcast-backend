@@ -1,4 +1,5 @@
 # Podcast Application
+[![License](https://img.shields.io/github/license/codenteq/podcast-backend)](https://github.com/codenteq/podcast-backend/blob/master/LICENSE)
 
 This project is part of the "Zero to App Development" series on YouTube. The aim of the series is to develop an open-source podcast application using Spring Boot. This project aims to create a platform where users can listen to podcasts and save their favorites. The backend part is developed using Spring Boot.
 
